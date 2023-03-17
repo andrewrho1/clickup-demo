@@ -7,3 +7,5 @@ We're testing the github and click up integration and the first step will be to 
 Start date: March 17 2023
 End date: March 18 2023
 Contributors: Andrew
+
+Even further changes
